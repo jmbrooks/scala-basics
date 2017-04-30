@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6da5b47f-ab41-4d4c-91b3-9ddb1d27240a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/pong.sc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/example.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -43,11 +44,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pong.sc" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pong.sc" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/pong.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="804">
+            <state relative-caret-position="1059">
               <caret line="66" column="1" lean-forward="false" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="example.sc" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/example.sc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -77,6 +88,7 @@
         <option value="$PROJECT_DIR$/src/main/scala/HelloWork.sc" />
         <option value="$PROJECT_DIR$/src/main/scala/Primes.sc" />
         <option value="$PROJECT_DIR$/src/main/scala/pong.sc" />
+        <option value="$PROJECT_DIR$/src/main/scala/example.sc" />
       </list>
     </option>
   </component>
@@ -557,8 +569,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/pong.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="804">
+        <state relative-caret-position="1059">
           <caret line="66" column="1" lean-forward="false" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/example.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
           <folding />
         </state>
       </provider>
